@@ -3,7 +3,7 @@ Przedstawiam działający slider osadzony na stronie WWW napisany przeze mnie w 
 
 Jest podobny do większości sliderów spotykanych w Internecie. Przechodzić pomiędzy slajdami możemy klikając umieszczone po bokach strzałki w lewo i w prawo albo wybierając slajd za pomocą paska małych kółeczek, gdzie wypełnione kółko oznacza bieżący slajd. Poza tym zmiana slajdu na następny dokonywana jest automatycznie w równych odstępach czasu.
 
-Zobaczysz go na <http://jmleczko.neocities.org/demo/slider/>
+Zobaczysz go na <http://janmleczko.neocities.org/demo/slider/>
 
 Żeby uruchomić go u siebie, po prostu pobierz wszystkie pliki z repozytorium (poza readme) do jednego katalogu i otwórz `index.htm` w przeglądarce.
 
