@@ -9,7 +9,7 @@ Zobaczysz go na <http://janmleczko.neocities.org/demo/slider/>
 
 Konfigurowalne są:
 
-- wymiary całego slidera (muszą być stałe), do których dostosują się wszytskie jego elementy,
+- wymiary całego slidera (muszą być stałe), do których dostosują się wszystkie jego elementy,
 - szybkość animacji przesuwania oraz automatycznej zmiany slajdu.
 
 Skrypt obsługuje jeden slider na stronie.
